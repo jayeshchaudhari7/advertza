@@ -32,7 +32,7 @@
  *
  * CONFIGURATION: Change the URL below to your deployed backend.
  */
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || (import.meta.env.DEV ? "http://localhost:5000/api" : "https://adv-x33r.onrender.com/api");
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || (import.meta.env.DEV ? "http://localhost:5000/api" : "https://advertza.onrender.com/api");
 
 // ============ HELPERS ============
 
